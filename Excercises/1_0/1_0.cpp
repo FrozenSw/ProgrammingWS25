@@ -1,5 +1,12 @@
 #include <iostream> // enables program to output data to screen
 
+/**
+modulus operator
+If a = 10 and b = 3, the output would be:
+10 % 3 = 1
+Because 3×3=9 and 10−9=1
+ */
+
 // function main begins program execution
 int main() {
   int a = 0;  // initializing variable
