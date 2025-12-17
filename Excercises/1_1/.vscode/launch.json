@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/User/Desktop/programming/Excercises/1_1",
-      "program": "c:/Users/User/Desktop/programming/Excercises/1_1/build/Debug/outDebug",
+      "cwd": "c:/Users/User/git_ws/ProgrammingWS25/Excercises/1_1",
+      "program": "c:/Users/User/git_ws/ProgrammingWS25/Excercises/1_1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

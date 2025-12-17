@@ -3,7 +3,7 @@
 /**
 modulus operator
 If a = 10 and b = 3, the output would be:
-10 % 3 = 1
+10 % 4 = 2
 Because 3×3=9 and 10−9=1
  */
 
@@ -28,5 +28,8 @@ int main() {
     std::cout << "Division by zero is not allowed." << std::endl;
   }
 
-  return 0; // indicate that program ended successfully
 } // end function main
+
+int sum(int a, int b) {
+  return a + b;
+}
